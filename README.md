@@ -1,2 +1,2 @@
-# aot-ios-smoothie-app
-Showcase iOS App 
+# mtd-ios-aot-showcase
+SwiftUI App + Combine specially designed for AOT Showcase 
